@@ -1,0 +1,10 @@
+.stApp{
+    background-color:#fdbb6d;
+}
+.h1{
+    color: black;
+}
+section[data-testid="stSidebar"]{
+    background-color:#ff8b3d;
+}
+
